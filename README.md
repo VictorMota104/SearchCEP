@@ -1,6 +1,6 @@
 # NewTab Academy
-<h3>Github pages</h3>
-https://victormota104.github.io/SearchCEP/
+<h3>Pages</h3>
+https://search-cep-livid.vercel.app/
 
 <h2>Projeto React (individual)</h2>
 
